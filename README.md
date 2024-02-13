@@ -1,6 +1,6 @@
-# Blazor Server DataGrid - Globalization with culture files CDN
+# Blazor Server DataGrid - Globalization
 
-This demo shows how to load a JSON culture file from server(loaded from a cdn link) to apply localization cultures in Blazor DataGrid.
+This demo shows how to load a culture file from server to apply localization cultures in Blazor DataGrid.
 
 ## Prerequisites
 
